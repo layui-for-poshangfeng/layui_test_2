@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="layui_plus:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/layui_plus_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="layui_plus/web/Web" />
+    </root>
+  </artifact>
+</component>
